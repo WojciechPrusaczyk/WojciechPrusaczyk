@@ -9,7 +9,7 @@
 - 📫 How to reach me **woj.prusaczyk@gmail.com**
 
 - 📄 Know about me [My CV](https://github.com/WojciechPrusaczyk/WojciechPrusaczyk/blob/main/CV-Wojciech-Prusaczyk.pdf)
-
+<!--
 <br>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -42,3 +42,4 @@
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wojciechprusaczyk&show_icons=true&locale=en" alt="wojciechprusaczyk" /></p>
+-->
