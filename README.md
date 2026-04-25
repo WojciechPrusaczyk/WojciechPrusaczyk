@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wojciech Prusaczyk</h1>
-<h2 align="center">A Junior Fullstack developer ❤️</h2>
+<h2 align="center">Mid Fullstack developer ❤️</h2>
 <br>
 
 - 🔭 I’m currently working on [Eventful](https://github.com/WojciechPrusaczyk/events-app)
